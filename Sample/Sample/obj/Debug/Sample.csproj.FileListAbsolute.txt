@@ -1,0 +1,6 @@
+E:\Training\DotNetConsoleApps\Sample\Sample\bin\Debug\Sample.dll
+E:\Training\DotNetConsoleApps\Sample\Sample\bin\Debug\Sample.pdb
+E:\Training\DotNetConsoleApps\Sample\Sample\obj\Debug\Sample.csprojAssemblyReference.cache
+E:\Training\DotNetConsoleApps\Sample\Sample\obj\Debug\Sample.csproj.CoreCompileInputs.cache
+E:\Training\DotNetConsoleApps\Sample\Sample\obj\Debug\Sample.dll
+E:\Training\DotNetConsoleApps\Sample\Sample\obj\Debug\Sample.pdb
